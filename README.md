@@ -1,29 +1,30 @@
 ### 👋  Hi there, I am Franco Sanchez
 
-### About Me
+### 💡  About Me
 - 🎓  **I'm a systems engineering student.**
 - 🔭  **Currently working on personal projects.**
-- 🌱  **Learning about:**
+- 🚩  **Learning about:**
   - Genetic Algorithms with Python.
   - Telegram Bots with python
   - Full-stack web developer with angular and express.js
-- **Languages:**
+- 💬  **Languages:**
   - Spanish \(native\)
-  - English  
+  - English
+- 🌎 🇦🇷  **Argentina** 
 
-### 💻Tech Stack
+### 💻  Tech Stack
 - Python
 - Git
 - MySql
 - Front End: Angular
 
-### 📫 How to reach me:
-- Web: [francosanchez.com.ar](http://francosanchez.com.ar/)
-- Telegram: [@fraancosan](https://t.me/fraancosan)
-- Email: [info@francosanchez.com.ar](mailto:info@francosanchez.com.ar?subject=Asunto%20del%20correo&body=Contenido%20del%20mensaje)
+### 📫  How to reach me:
+- 🖥️  Web: [francosanchez.com.ar](http://francosanchez.com.ar/)
+- 📱  Telegram: [@fraancosan](https://t.me/fraancosan)
+- ✉️  Email: [info@francosanchez.com.ar](mailto:info@francosanchez.com.ar?subject=Asunto%20del%20correo&body=Contenido%20del%20mensaje)
 
-### Collaborations
-👯 **I’m looking to collaborate on web design projects:** As I mentioned before, I am learning about angular and express.js, therefore I am interested in carrying out projects that use these technologies.
+### 🔍  Collaborations
+👯  **I’m looking to collaborate on web design projects:** As I mentioned before, I am learning about angular and express.js, therefore I am interested in carrying out projects that use these technologies.
 
-### Stats
+### 📊  Stats
 ![Franco Sanchez GitHub stats](https://github-readme-stats.vercel.app/api?username=fraancosan&show_icons=true&theme=vision-friendly-dark)
