@@ -1,16 +1,29 @@
-### Hi there 👋
+### 👋  Hi there, I am Franco Sanchez
 
-<!--
-**fraancosan/fraancosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓  **I'm a systems engineering student.**
+- 🔭  **Currently working on personal projects.**
+- 🌱  **Learning about:**
+  - Genetic Algorithms with Python.
+  - Telegram Bots with python
+  - Full-stack web developer with angular and express.js
+- **Languajes:**
+  - Spanish \(native\)
+  - English  
 
-Here are some ideas to get you started:
+### 💻Tech Stack
+- Python
+- Git
+- MySql
+- Front End: Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- Web: [francosanchez.com.ar] (https://francosanchez.com.ar/)
+- Telegram: [@fraancosan] (https://t.me/fraancosan)
+- Email: [info@francosanchez.com.ar] (mailto:info@francosanchez.com.ar?subject=Asunto%20del%20correo&body=Contenido%20del%20mensaje)
+
+### Collaborations
+👯 **I’m looking to collaborate on web design projects:** As I mentioned before, I am learning about angular and express.js, therefore I am interested in carrying out projects that use these technologies.
+
+### Stats
+![Franco Sanchez GitHub stats](https://github-readme-stats.vercel.app/api?username=fraancosan&show_icons=true&theme=vision-friendly-dark)
