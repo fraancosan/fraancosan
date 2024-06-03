@@ -35,7 +35,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Api mercado pago](https://img.shields.io/badge/API-MERCADO%20PAGO-%23009EE3?style=for-the-badge)
+![Mercado Pago](https://img.shields.io/badge/mercado%20pago-%23009EE3?style=for-the-badge)
 ![NodeMailer](https://img.shields.io/badge/NODE-MAILER-%2329ABE2?style=for-the-badge&labelColor=%2322B573)
 ![Multer](https://img.shields.io/badge/MULTER-%2300AAE8?style=for-the-badge)
 ![Sharp](https://img.shields.io/badge/SHARP-%23009900?style=for-the-badge)
