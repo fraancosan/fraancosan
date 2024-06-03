@@ -45,5 +45,5 @@
 
 ### 📊  Stats
 ![Franco Sanchez GitHub stats](https://github-readme-stats.vercel.app/api?username=fraancosan&show_icons=true&show=&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraancosan&langs_count=8&layout=compact&theme=vision-friendly-dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fraancosan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraancosan&langs_count=8&layout=compact&theme=vision-friendly-dark)
