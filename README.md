@@ -19,9 +19,11 @@
 - Front End: Angular
 
 ### 📫  How to reach me:
-- 🖥️  Web: [francosanchez.com.ar](https://francosanchez.com.ar/)
-- 📱  Telegram: [@fraancosan](https://t.me/fraancosan)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@francosanchez.com.ar?subject=Asunto%20del%20correo&body=Contenido%20del%20mensaje)
+[![Web](https://img.shields.io/badge/WEB-eace61?style=for-the-badge)](https://francosanchez.com.ar/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fraancosan)
+[![Email](https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge)](mailto:info@francosanchez.com.ar?subject=Asunto%20del%20correo&body=Contenido%20del%20mensaje)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-sanchez-354176226/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5493413166913)
 
 ### 🔍  Collaborations
 👯  **I’m looking to collaborate on web design projects:** As I mentioned before, I am learning about angular and express.js, therefore I am interested in carrying out projects that use these technologies.
