@@ -1,15 +1,14 @@
 ### 👋  Hi there, I am Franco Sanchez
 
 ### 💡  About Me
-- 🎓  **I'm a systems engineering student.**
-- 🔭  **Currently working on personal projects.**
+- 🎓  **Systems Engineering Student.**
+- 🔭  **Freelance Full-Stack Developer.**
 - 🚩  **Learning about:**
-  - Genetic Algorithms with Python.
-  - Telegram Bots with python
-  - Full-stack web developer with angular and express.js
+  - Deployment of apps in cloud hosting and VPS
+  - Integration of payment methods in nodejs
 - 💬  **Languages:**
-  - Spanish \(native\)
-  - English
+  - Spanish \(_native_\)
+  - English \(_B2_\)
 - 🌎 🇦🇷  **Argentina** 
 
 ### 💻  Tech Stack
@@ -42,7 +41,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5493413166913)
 
 ### 🔍  Collaborations
-👯  **I’m looking to collaborate on web design projects:** As I mentioned before, I am learning about angular and express.js, therefore I am interested in carrying out projects that use these technologies.
+👯  **Currently working alone but planning to collaborate with a team on multiple projects in the near future.**
 
 ### 📊  Stats
 ![Franco Sanchez GitHub stats](https://github-readme-stats.vercel.app/api?username=fraancosan&show_icons=true&theme=vision-friendly-dark)
