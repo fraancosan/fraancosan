@@ -13,7 +13,7 @@
 - 🌎 🇦🇷  **Argentina** 
 
 ### 💻  Tech Stack
-
+<div align="center" style="display: grid">
 <!-- Languajes -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,6 +42,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ### 📫  Contact:
 [![Web](https://img.shields.io/badge/WEB-eace61?style=for-the-badge)](https://francosanchez.com.ar/)
