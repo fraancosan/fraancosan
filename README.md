@@ -46,7 +46,7 @@
 [![Web](https://img.shields.io/badge/WEB-eace61?style=for-the-badge)](https://francosanchez.com.ar/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fraancosan)
 [![Email](https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge)](mailto:info@francosanchez.com.ar?subject=Asunto%20del%20correo&body=Contenido%20del%20mensaje)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-sanchez-354176226/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fraancosan/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5493413166913)
 
 ### 🔍  Collaborations
