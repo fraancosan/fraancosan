@@ -1,3 +1,5 @@
+![Banner](assets/banner_en.png)
+
 ### 👋  Hi there, I am Franco Sanchez
 
 ### 💡  About Me
