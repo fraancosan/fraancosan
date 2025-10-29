@@ -2,16 +2,6 @@
 
 ### 👋  Hi there, I am Franco Sanchez
 
-### 💡  About Me
-- 🎓  **Systems Engineering Student.**
-- 🔭  **Freelance Full-Stack Developer.**
-- 🚩  **Learning about:**
-  - Cybersecurity
-- 💬  **Languages:**
-  - Spanish \(_native_\)
-  - English \(_B2_\)
-- 🌎 🇦🇷  **Argentina** 
-
 ### 💻  Tech Stack
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
